@@ -1,3 +1,6 @@
+"""
+This is a ASCII drawing method, to make a diferent vew from pictures.
+"""
 from PIL import Image
 
 ascii_characters_by_surface = "`^\",:;Il!i~+_-?][}{1)(|\\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$"
